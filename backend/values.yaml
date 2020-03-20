@@ -5,7 +5,7 @@
 replicaCount: 1
 namespace: api
 image:
-  name: hemalgadhiya/csye-7374-advanced-cloud-webapp-backend:563c63b1397260e21df814bef3b27c3f153f8dec
+  name: hemalgadhiya/csye-7374-advanced-cloud-webapp-backend:47184ff93a3caddec35fe3478b880bd4a3dea4a9
   pullPolicy: IfNotPresent
 imagePullSecrets: dockercreds
 #nameOverride: ""
